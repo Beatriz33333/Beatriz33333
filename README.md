@@ -1,4 +1,4 @@
-# Olá! Eu sou [Seu Nome] 👋
+# Olá! Eu sou Beatriz Guimarãea Gonçalves 👋
 
 ### Sobre Mim
 
