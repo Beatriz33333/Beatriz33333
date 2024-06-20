@@ -14,8 +14,8 @@
 ### Contato
 
 - **Email**: biagg2005@yahoo.com
-- **LinkedIn**: [seulinkedin]([https://www.linkedin.com/in/seulinkedin](https://www.linkedin.com/in/beatriz-guimar%C3%A3es-gon%C3%A7alves-0b33832ba/))
-- **GitHub**: [seuperfilgithub](https://github.com/Beatriz33333)
+- **LinkedIn**: (https://www.linkedin.com/in/beatriz-guimar%C3%A3es-gon%C3%A7alves-0b33832ba/)
+- **GitHub**: (https://github.com/Beatriz33333)
 
 ### Tecnologias e Ferramentas
 
