@@ -2,7 +2,7 @@
 
 ### Sobre Mim
 
-- 🎓 Estudante de Ciências da Computação - 6º semestre
+- 🎓 Estudante de Ciências da Computação - 7º semestre
 - 🌱 Atualmente aprendendo mais sobre desenvolvimento web e ciência de dados
 
 ### Habilidades
